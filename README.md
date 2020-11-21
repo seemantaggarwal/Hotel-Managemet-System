@@ -1,1 +1,2 @@
-# Hotel-Management-System
+# Hotel Management System
+## Using Python Tkinter GUI
